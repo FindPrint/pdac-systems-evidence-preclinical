@@ -1,0 +1,4 @@
+source_id	title	url_or_doi	data_type	access	license_or_policy	version_or_date	admissibility_status	notes
+SRC-PDAC-ORG-001	Pancreatic Cancer Organoid Profiling	https://registry.opendata.aws/organoid-pancreatic/	organoids RNA-seq/WGS/WXS	RNA-seq quantification open; autres modalités contrôlées	NIH Genomic Data Sharing Policy	à figer	à compléter	Ne pas importer de données contrôlées ou identifiantes.
+SRC-PDAC-SYN-001	SYNERGxDB	https://synergxdb.ca/	combinaisons et synergie in vitro	portail public	à vérifier par étude	à figer	à compléter	Utiliser comme benchmark, pas comme preuve clinique.
+SRC-PDAC-SYN-002	DrugComb via Therapeutics Data Commons	https://tdcommons.ai/multi_pred_tasks/drugsyn/	combinaisons et mesures de synergie	portail public	CC BY 4.0 indiqué par TDC	à figer	à compléter	Séparer les lignées PDAC des autres tissus ; respecter métrique et version.

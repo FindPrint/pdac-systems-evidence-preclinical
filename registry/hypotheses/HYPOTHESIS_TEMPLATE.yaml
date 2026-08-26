@@ -1,0 +1,38 @@
+hypothesis_id: HYP-PDAC-YYYY-NNNN
+status: draft
+scope: preclinical_research_only
+question: ""
+signal_source:
+  source_ids: []
+  data_type: ""
+  observed_result: ""
+  analysis_version: ""
+mechanistic_rationale:
+  statement: ""
+  references: []
+  evidence_level: unknown
+  known_contradictions: []
+model_scope:
+  tumor_models: []
+  non_tumor_controls: []
+  longitudinal_measurements_required: false
+candidate_intervention:
+  names: []
+  mechanism_only: true
+  dose_or_schedule: prohibited
+falsification_plan:
+  primary_endpoint: ""
+  safety_or_selectivity_endpoint: ""
+  resistance_or_durability_endpoint: ""
+  independent_holdout: ""
+  success_criterion: ""
+  failure_criterion: ""
+uncertainty:
+  unknown_parameters: []
+  confounders: []
+  data_limitations: []
+prohibited_claims:
+  - clinical_recommendation
+  - patient_specific_prediction
+  - dose_recommendation
+  - safety_guarantee

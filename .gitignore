@@ -1,0 +1,47 @@
+# Données brutes, individuelles et sous accès contrôlé
+data/raw/**
+data/processed/**
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.bam
+*.cram
+*.fastq
+*.fastq.gz
+*.vcf
+*.vcf.gz
+*.h5ad
+*.h5
+*.loom
+*.rds
+*.rda
+*.dta
+*.sav
+
+# Archives et sorties lourdes
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.parquet
+*.feather
+*.npy
+*.npz
+results/**
+!results/.gitkeep
+
+# Secrets et identifiants
+.env
+.env.*
+*.pem
+*.key
+*token*
+*secret*
+credentials*.json
+
+# Environnements et caches
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
