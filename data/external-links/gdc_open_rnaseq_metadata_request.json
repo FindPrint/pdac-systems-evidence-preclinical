@@ -1,0 +1,31 @@
+{
+  "filters": {
+    "op": "and",
+    "content": [
+      {
+        "op": "=",
+        "content": {
+          "field": "cases.project.project_id",
+          "value": "ORGANOID-PANCREATIC"
+        }
+      },
+      {
+        "op": "=",
+        "content": {
+          "field": "data_type",
+          "value": "Gene Expression Quantification"
+        }
+      },
+      {
+        "op": "=",
+        "content": {
+          "field": "access",
+          "value": "open"
+        }
+      }
+    ]
+  },
+  "fields": "file_id,file_name,md5sum,file_size,access,data_type,data_format,experimental_strategy,analysis.workflow_type,created_datetime,updated_datetime,cases.case_id,cases.submitter_id,cases.samples.sample_type",
+  "format": "JSON",
+  "size": 1000
+}

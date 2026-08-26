@@ -1,0 +1,37 @@
+{
+  "api_pagination": {
+    "count": 55,
+    "from": 0,
+    "page": 1,
+    "pages": 1,
+    "size": 1000,
+    "sort": "",
+    "total": 55
+  },
+  "data_formats": {
+    "TSV": 55
+  },
+  "distinct_case_count": 49,
+  "distinct_md5_count": 55,
+  "file_count": 55,
+  "manifest_file": "data/external-links/GDC_ORGANOID_PANCREATIC_OPEN_RNASEQ_MANIFEST.tsv",
+  "manifest_sha256": "f713edebf0f8afb20305b1472d480564e45ac31ce79e28350d7dde6ae496220b",
+  "official_api": "https://api.gdc.cancer.gov/files",
+  "project_id": "ORGANOID-PANCREATIC",
+  "query_constraints": {
+    "access": "open",
+    "data_type": "Gene Expression Quantification",
+    "experimental_strategy": "RNA-Seq"
+  },
+  "query_date": "2026-08-26",
+  "sample_types": {
+    "Next Generation Cancer Model": 55
+  },
+  "scope": "Metadonnees uniquement ; aucune quantification RNA-seq n'a ete telechargee ni analysee.",
+  "source_file": "data/external-links/gdc_open_rnaseq_metadata_response.json",
+  "source_sha256": "01b6300bc3f1f88942c22b3bb9338305b2f8b995355158cc69868bb6118696de",
+  "total_file_size_bytes": 232648892,
+  "workflow_types": {
+    "STAR - Counts": 55
+  }
+}
