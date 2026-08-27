@@ -9,15 +9,18 @@
 | Schéma technique | Vérifié sur 55/55 : préambule GENCODE v36, 9 colonnes, 60 664 lignes de données et même séquence de `gene_id`. |
 | Contrôle qualité numérique | Conforme sur 55/55 : aucun `gene_id` manquant ou dupliqué ; aucun champ de gène manquant ; aucune anomalie de syntaxe, finitude, signe ou intégralité sur les colonnes contrôlées. |
 | Lignes techniques de synthèse | 4 par fichier, soit 220 au total ; contrôlées séparément, non assimilées à des gènes. |
+| Pré-spécification de matrice | Publiée ; une matrice `unstranded` de 60 660 gènes × 55 fichiers est seulement définie, pas construite. |
+| Matrices traitées locales | Aucune. |
+| Variables et modules transcriptomiques | Aucune variable active ; les six modules restent inactifs. |
 | Données patient individuelles | Interdites dans le dépôt. |
 | Données contrôlées | Non téléchargées et non versionnées. |
-| Normalisation, filtrage, matrices ou modules transcriptomiques | Non effectués ; les six modules restent inactifs. |
+| Normalisation, filtrage, statistiques ou comparaison biologique | Non effectués. |
 | Modèles de simulation | Aucun modèle importé ou exécuté. |
 | Hypothèses de combinaison | Aucune active. |
 | Code de l’archive `tlog28` | Lu statiquement seulement ; non copié dans ce dépôt. |
 | v3 et module F1′/F2″ | Conservés séparément comme références historiques. |
-| Prochain jalon conditionnel | Pré-spécifier, puis faire autoriser, une préparation de matrice technique non biologique. |
+| Prochain jalon conditionnel | Construction technique de la matrice seulement après autorisation utilisateur explicite. |
 
 ## Décision de portée
 
-Les contrôles exécutés établissent seulement la provenance, l’intégrité, le schéma et la validité numérique élémentaire des fichiers. Ils ne démontrent pas une qualité biologique, une comparabilité d’échantillons, ni un résultat scientifique. Toute préparation de matrice ou lecture statistique ultérieure nécessite une autorisation explicite distincte. Les données brutes restent hors de Git ; le dépôt privé ne contient que les scripts, décisions, métadonnées et reçus non sensibles.
+Le protocole `PROTOCOL_002_CONSTRUCTION_MATRICE_RNASEQ_TECHNIQUE.md` gèle une convention technique, sans produire de fichier de matrice. Toute exécution exigera une autorisation distincte ; elle devra s’arrêter au premier écart de provenance, d’intégrité ou d’ordre de gènes. Les données brutes et toute matrice future restent hors de Git. Aucune couche biologique, mécanistique, pharmacologique ou clinique n’est activée par ce jalon.
