@@ -1,0 +1,27 @@
+{
+  "completed_at_utc": "2026-08-27T01:58:10.748650+00:00",
+  "file_map": "data/processed/GDC_ORGANOID_PANCREATIC_OPEN_RNASEQ_20260826/ORGANOID_PANCREATIC_file_map.tsv",
+  "file_map_sha256": "fe6d7a0359667e68b4b1bd50801b9f212c901c0134840c19518b7fb21e8d1b91",
+  "gene_id_order_sha256": "eed79a6e4ab83f04b1dcfcd2dbf14364cd5137942aee6f89d5ecc7bced03f993",
+  "input_file_count": 55,
+  "matrix_file": "data/processed/GDC_ORGANOID_PANCREATIC_OPEN_RNASEQ_20260826/ORGANOID_PANCREATIC_unstranded_gene_by_file.tsv.gz",
+  "matrix_file_sha256": "7c15bed155af6182a037e51248c865bc82a4fc2519f6a074ef210d3551f0ca4d",
+  "matrix_shape_gene_by_file": [
+    60660,
+    55
+  ],
+  "output_directory_git_ignored": true,
+  "output_file_column_count": 55,
+  "output_gene_row_count": 60660,
+  "project_id": "ORGANOID-PANCREATIC",
+  "scope": "Construction technique locale de la matrice unstranded uniquement ; aucune normalisation, statistique, comparaison biologique ou activation de flux.",
+  "source_manifest": "data/external-links/GDC_ORGANOID_PANCREATIC_OPEN_RNASEQ_MANIFEST.tsv",
+  "source_manifest_sha256": "f713edebf0f8afb20305b1472d480564e45ac31ce79e28350d7dde6ae496220b",
+  "status": "complete",
+  "technical_rows_excluded_per_file": [
+    "N_unmapped",
+    "N_multimapping",
+    "N_noFeature",
+    "N_ambiguous"
+  ]
+}
