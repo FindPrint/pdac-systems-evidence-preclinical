@@ -1,0 +1,3211 @@
+{
+  "completed_at_utc": "2026-08-27T00:49:49.207081+00:00",
+  "expected_header": [
+    "gene_id",
+    "gene_name",
+    "gene_type",
+    "unstranded",
+    "stranded_first",
+    "stranded_second",
+    "tpm_unstranded",
+    "fpkm_unstranded",
+    "fpkm_uq_unstranded"
+  ],
+  "file_count": 55,
+  "file_status_counts": {
+    "pass": 55
+  },
+  "files": [
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "00d56586-7c04-4ce3-a3ca-fe144cb65f01.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "04dfbfd9-2c8f-496e-a615-f8995e5154ae.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "06330b66-7243-4408-bbf5-2e5c1117641c.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "07f269be-62ef-4a73-91fa-d83f1da0147b.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "08e67b38-2294-47a6-95d7-373e4fca7e31.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "093b5452-65db-486a-a566-89bc92697d35.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "1e823575-d2f5-4bed-9c05-f680dafebe8e.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "20018411-e0b4-4df9-b624-9f2a66025545.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "35ccf044-8577-4ca1-9259-2a917cdbaf1c.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "3e8f8215-08d9-4dbd-b319-f4a64ea64793.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "461c6b55-1708-40b4-bda5-5535a2020e68.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "4a0b212d-e944-4b19-9a88-bebe7dac0218.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "512ab503-82d3-46fe-810c-d46652178c88.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "5597c2cb-b42b-4f09-ad1c-2756994b3c8f.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "55d07bfb-ecd3-4991-bb14-a2337adf55b5.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "5bda48df-adee-40bb-9d46-789f8030c75d.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "5de1d7a2-13cc-4467-82f2-5f2b551586c8.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "607e252c-188e-4b08-9f12-51aa9e791df0.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "6ea5717c-c2c9-4215-a576-ddf1a4dacff6.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "6ec913ff-c3f4-48f5-9a90-d26f9c646687.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "71cf8dd7-b75a-40c9-bc51-4b877bb95955.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "7457e64f-50e4-4f5d-9dd6-3645263da651.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "75f63a7e-2577-471d-a4e9-81d624689025.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "77941b19-bb67-47a4-8bf9-5c97bcbe3241.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "797016b2-dd89-4a98-87a2-fada7fe1cec5.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "79df119e-cd99-453c-b18b-81ca868d40c0.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "7cd2b053-2b5e-4742-853a-adb5d1242eb9.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "7d31e50e-8900-441a-b280-c80ff9ece480.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "7ff645e5-1c66-4f09-bb3d-35faf30bfe22.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "833c68af-c289-42a6-9a50-6533d44be72b.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "85bde5f2-5dd8-4c47-8947-6390edb52351.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "8c262bb8-e2f3-4f77-b849-45536e0b4360.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "91b2e0c0-36e0-45b1-8971-a181c51098c5.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "940e42e0-f604-48eb-a0ac-be404eb7f512.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "97ed603e-7f9c-41f2-a395-aade920accd6.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "9f6a27d4-18a6-45d1-9ba5-f4a917ee4773.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "a1b6f851-af1f-4a82-8d83-f80d57a334ba.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "a352d697-46af-4e17-a235-afeccd290f29.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "a58c9a7a-bda6-4ca8-9b3c-d92f5d88ba46.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "a8c791e8-d098-4e5f-8f19-90ae0c5d4366.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "af38af00-266f-4c4b-a22d-dfeda07427de.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "c13475af-1850-4a1a-921e-f2859a247904.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "c1aba62f-f95a-4507-b77c-e91a699780e6.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "c1c7f872-80e5-452f-917a-b93e232f6901.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "cef94655-3ff3-4863-b747-eea2e2bcb3bc.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "cfb22850-e76d-4b4d-8089-a1fc99d04f20.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "dacc5736-51e5-477b-9c2a-7b550805a1fd.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "de599739-2948-4f75-b471-b1affe1ac965.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "e140679f-8e3c-4abe-b935-58649053799d.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "e3561d9b-4294-4981-a583-205c926e47dc.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "e3fcb9aa-e800-429b-b316-fe5ed32417ee.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "ed2247a0-c812-4483-a033-96a98241e095.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "f1a5c800-b63c-4f06-a2cb-4ded9da05b4b.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "f362388e-508b-4f6a-896f-0b8e891ffad6.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    },
+    {
+      "anomaly_count": 0,
+      "data_row_count": 60664,
+      "file_name": "f804cf50-3dcf-4cc8-9afa-6fb4811d75b9.rna_seq.augmented_star_gene_counts.tsv",
+      "gene_id_duplicate_count": 0,
+      "gene_id_missing_count": 0,
+      "gene_name_missing_count": 0,
+      "gene_type_missing_count": 0,
+      "numeric_issue_counts": {
+        "fpkm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "fpkm_uq_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_first": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "stranded_second": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "tpm_unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        },
+        "unstranded": {
+          "empty": 0,
+          "negative": 0,
+          "non_finite": 0,
+          "non_integer": 0,
+          "non_numeric": 0
+        }
+      },
+      "status": "pass",
+      "technical_summary_id_duplicate_count": 0,
+      "technical_summary_id_missing_count": 0,
+      "technical_summary_row_count": 4
+    }
+  ],
+  "identifier_issue_counts": {
+    "gene_id_duplicate_count": 0,
+    "gene_id_missing_count": 0,
+    "gene_name_missing_count": 0,
+    "gene_type_missing_count": 0,
+    "technical_summary_id_duplicate_count": 0,
+    "technical_summary_id_missing_count": 0,
+    "technical_summary_row_count": 220
+  },
+  "numeric_issue_counts": {
+    "fpkm_unstranded": {
+      "empty": 0,
+      "negative": 0,
+      "non_finite": 0,
+      "non_integer": 0,
+      "non_numeric": 0
+    },
+    "fpkm_uq_unstranded": {
+      "empty": 0,
+      "negative": 0,
+      "non_finite": 0,
+      "non_integer": 0,
+      "non_numeric": 0
+    },
+    "stranded_first": {
+      "empty": 0,
+      "negative": 0,
+      "non_finite": 0,
+      "non_integer": 0,
+      "non_numeric": 0
+    },
+    "stranded_second": {
+      "empty": 0,
+      "negative": 0,
+      "non_finite": 0,
+      "non_integer": 0,
+      "non_numeric": 0
+    },
+    "tpm_unstranded": {
+      "empty": 0,
+      "negative": 0,
+      "non_finite": 0,
+      "non_integer": 0,
+      "non_numeric": 0
+    },
+    "unstranded": {
+      "empty": 0,
+      "negative": 0,
+      "non_finite": 0,
+      "non_integer": 0,
+      "non_numeric": 0
+    }
+  },
+  "project_id": "ORGANOID-PANCREATIC",
+  "scope": "Contr\u00f4le qualit\u00e9 num\u00e9rique limit\u00e9 : validit\u00e9 syntaxique, finitude, non-n\u00e9gativit\u00e9, int\u00e9gralit\u00e9 des champs et unicit\u00e9 des gene_id. Aucune valeur individuelle, statistique d'expression, normalisation ou comparaison biologique n'est incluse.",
+  "status": "complete"
+}

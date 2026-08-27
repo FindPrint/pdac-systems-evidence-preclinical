@@ -7,17 +7,17 @@
 | Quantifications locales | 55 TSV, uniquement dans `data/raw/` exclu de Git. |
 | Intégrité de transfert | 55/55 tailles et MD5 GDC vérifiés indépendamment ; aucun fichier partiel ni non déclaré. |
 | Schéma technique | Vérifié sur 55/55 : préambule GENCODE v36, 9 colonnes, 60 664 lignes de données et même séquence de `gene_id`. |
+| Contrôle qualité numérique | Conforme sur 55/55 : aucun `gene_id` manquant ou dupliqué ; aucun champ de gène manquant ; aucune anomalie de syntaxe, finitude, signe ou intégralité sur les colonnes contrôlées. |
+| Lignes techniques de synthèse | 4 par fichier, soit 220 au total ; contrôlées séparément, non assimilées à des gènes. |
 | Données patient individuelles | Interdites dans le dépôt. |
 | Données contrôlées | Non téléchargées et non versionnées. |
-| Valeurs RNA-seq | Ni extraites, ni converties, ni résumées, ni comparées. |
-| Contrôle qualité des valeurs | Non effectué. |
-| Normalisation, filtrage, modules transcriptomiques | Non effectués ; les six modules restent inactifs. |
+| Normalisation, filtrage, matrices ou modules transcriptomiques | Non effectués ; les six modules restent inactifs. |
 | Modèles de simulation | Aucun modèle importé ou exécuté. |
 | Hypothèses de combinaison | Aucune active. |
 | Code de l’archive `tlog28` | Lu statiquement seulement ; non copié dans ce dépôt. |
 | v3 et module F1′/F2″ | Conservés séparément comme références historiques. |
-| Prochain jalon conditionnel | Contrôle qualité non biologique des valeurs seulement après autorisation utilisateur distincte. |
+| Prochain jalon conditionnel | Pré-spécifier, puis faire autoriser, une préparation de matrice technique non biologique. |
 
 ## Décision de portée
 
-L’import et l’inspection de schéma ont été autorisés exclusivement à des fins de conservation, de provenance et de structure technique. Toute lecture numérique des quantifications, même pour un contrôle qualité non biologique, exige une nouvelle autorisation explicite. Les données brutes restent hors de Git ; le dépôt privé ne contient que les scripts, décisions, métadonnées et reçus non sensibles.
+Les contrôles exécutés établissent seulement la provenance, l’intégrité, le schéma et la validité numérique élémentaire des fichiers. Ils ne démontrent pas une qualité biologique, une comparabilité d’échantillons, ni un résultat scientifique. Toute préparation de matrice ou lecture statistique ultérieure nécessite une autorisation explicite distincte. Les données brutes restent hors de Git ; le dépôt privé ne contient que les scripts, décisions, métadonnées et reçus non sensibles.
