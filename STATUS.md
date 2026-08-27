@@ -11,6 +11,8 @@
 | Lignes techniques de synthèse | 4 par fichier, soit 220 au total ; contrôlées séparément, non assimilées à des gènes. |
 | Matrice technique locale | Construite : 60 660 `gene_id` × 55 `file_id`, à partir de `unstranded` seulement ; sorties exclues de Git. |
 | Vérification de matrice | Dimensions, ordre des `gene_id`, correspondance fichier/colonne et SHA-256 vérifiés. |
+| Axe expérimental ouvert admissible | Aucun identifié dans les métadonnées ouvertes de 55 fichiers : aucun temps, passage, dose, condition graduée ou coordonnée mesurée documenté. |
+| Statut de v3 / F1′ / F2″ sur ce sous-ensemble | Non exécuté comme analyse dynamique ; aucun pseudo-temps ni ordre administratif créé. |
 | Variables et modules transcriptomiques | Aucune variable active ; les six modules restent inactifs. |
 | Données patient individuelles | Interdites dans le dépôt. |
 | Données contrôlées | Non téléchargées et non versionnées. |
@@ -19,8 +21,8 @@
 | Hypothèses de combinaison | Aucune active. |
 | Code de l’archive `tlog28` | Lu statiquement seulement ; non copié dans ce dépôt. |
 | v3 et module F1′/F2″ | Conservés séparément comme références historiques. |
-| Prochain jalon conditionnel | Pré-spécifier une préparation analytique de qualité, puis demander une autorisation distincte avant toute exécution. |
+| Prochain jalon conditionnel | Choisir explicitement entre recherche d’une série PDAC ordonnée pour v3/F1′/F2″ ou pré-spécification d’une analyse transversale séparée. |
 
 ## Décision de portée
 
-La matrice locale est un objet technique reproductible de comptes `unstranded`, non une conclusion scientifique. Son existence n’autorise pas l’analyse statistique, la normalisation, l’annotation biologique, la sélection de gènes ou l’activation des modules. Les données brutes et les fichiers de matrice restent hors de Git ; le dépôt privé conserve uniquement les scripts, décisions, métadonnées et reçus non sensibles.
+La matrice locale est un objet technique reproductible de comptes `unstranded`, non une trajectoire. Les 55 fichiers ne reçoivent aucun ordre artificiel et v3/CSD/F1′/F2″ ne leur est pas appliqué comme dynamique. Le projet peut avancer par une voie dynamique seulement avec une source dont l’ordre expérimental est démontré, ou par une voie transversale explicitement distincte. Les données brutes et les fichiers de matrice restent hors de Git ; le dépôt privé conserve uniquement les scripts, décisions, métadonnées et reçus non sensibles.

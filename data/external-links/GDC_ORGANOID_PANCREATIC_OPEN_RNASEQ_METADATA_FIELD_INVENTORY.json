@@ -1,0 +1,158 @@
+{
+  "axis_keyword_candidates": [
+    "created_datetime",
+    "updated_datetime"
+  ],
+  "completed_at_utc": "2026-08-27T20:41:29.220572+00:00",
+  "field_count": 18,
+  "fields": [
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "access",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "object": 55
+      },
+      "occurrence_count": 55,
+      "path": "analysis",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "analysis.workflow_type",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "array": 55
+      },
+      "occurrence_count": 55,
+      "path": "cases",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "cases[].case_id",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "array": 55
+      },
+      "occurrence_count": 55,
+      "path": "cases[].samples",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "cases[].samples[].sample_type",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "cases[].submitter_id",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "created_datetime",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "data_format",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "data_type",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "experimental_strategy",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "file_id",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "file_name",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "integer": 55
+      },
+      "occurrence_count": 55,
+      "path": "file_size",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "id",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "md5sum",
+      "present_in_file_count": 55
+    },
+    {
+      "json_types": {
+        "string": 55
+      },
+      "occurrence_count": 55,
+      "path": "updated_datetime",
+      "present_in_file_count": 55
+    }
+  ],
+  "file_count": 55,
+  "project_id": "ORGANOID-PANCREATIC",
+  "scope": "Inventaire de noms, types JSON et couvertures des champs de la r\u00e9ponse GDC ouverte. Aucune valeur individuelle de m\u00e9tadonn\u00e9e ni valeur RNA-seq n\u2019est incluse.",
+  "status": "complete"
+}
